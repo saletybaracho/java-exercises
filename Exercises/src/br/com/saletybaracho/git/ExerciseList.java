@@ -10,12 +10,10 @@ package br.com.saletybaracho.git;
 public class ExerciseList {
 
 	/**
-	 * @param args
+	 * @param args test description
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-        System.out.println("Hello!");
-        System.out.print("Salety Baracho.");
+        
 	}
 
 }
